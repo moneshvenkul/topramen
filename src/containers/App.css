@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'Trade Winds', cursive;
+  font-style: normal;
+  font-weight: normal;
+  src: "https://fonts.googleapis.com/css?family=Trade+Winds&display=swap";
+}
+
+
+h1 {
+  font-family: 'Trade Winds', cursive;
+  font-weight: 400;
+  color: #A0EAD0;
+}
